@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Jethro! 👋
 
-<!--
-**jeg985/jeg985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student | Exploring Data & AI
 
-Here are some ideas to get you started:
+I'm a Computer Science student from the Philippines who enjoys programming, solving problems, and building projects that make everyday tasks easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently exploring different areas of technology, particularly Data Analytics, Data Science, and AI/Machine Learning.
+
+### 💻 Tech Stack
+
+**Languages:** Python, Java, SQL, JavaScript
+
+**Web Development:** HTML, CSS
+
+**Tools:** Git, GitHub, VS Code
+
+**Learning:** Pandas, Scikit-learn, Data Visualization, Machine Learning
+
+### 🚀 Featured Project
+
+#### [VibeSkills](https://github.com/jeg985/vibeskills)
+
+A web application for tracking skill development and learning progress.
+
+- Built with HTML, CSS, and JavaScript
+- Uses localStorage to save progress
+- Supports adding, updating, and deleting skills
+- Developed while exploring AI-assisted coding
+
+### 📚 Currently Learning
+
+- SQL and Python for Data Analytics
+- Machine Learning fundamentals
+- Building practical projects
+- Writing cleaner and more maintainable code
+
+### 🎯 My Goal
+
+To continuously improve as a developer and use technology to build useful, creative, and meaningful solutions.
+
+---
+
+⭐ Always learning, building, and improving.
