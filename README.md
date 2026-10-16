@@ -1,4 +1,4 @@
-# Hi, I'm Jethro! 👋
+# From curiosity to code — I'm Jethro 🚀
 
 ### 🎓 Computer Science Student at FEU Institute of Technology 🔰🐃
 
