@@ -1,8 +1,8 @@
 # Hi, I'm Jethro! 👋
 
-### 🎓 Computer Science Student | Exploring Software Development, Data & AI
+### 🎓 Computer Science Student at FEU Institute of Technology 🔰🐃
 
-I'm a Computer Science student from the Philippines who enjoys building useful projects and solving problems through code. I'm exploring **data analytics, data science, and machine learning** while continuing to improve my software development skills.
+I'm a Computer Science student at **FEU Institute of Technology** in the Philippines who enjoys building useful projects and solving problems through code. I'm exploring **data analytics, data science, and machine learning** while continuing to improve my software development skills.
 
 I like learning by building, experimenting with different technologies, and understanding how things work behind the scenes.
 
