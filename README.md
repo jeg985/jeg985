@@ -8,13 +8,13 @@ I'm currently exploring different areas of technology, particularly Data Analyti
 
 ### 💻 Tech Stack
 
-**Languages:** Python, Java, SQL, JavaScript
+**Languages:** Python, Java, C++, SQL, JavaScript
 
 **Web Development:** HTML, CSS
 
 **Tools:** Git, GitHub, VS Code
 
-**Learning:** Pandas, Scikit-learn, Data Visualization, Machine Learning
+**Currently Learning:** Kotlin, Pandas, Scikit-learn, Data Visualization, Machine Learning
 
 ### 🚀 Featured Project
 
@@ -29,6 +29,7 @@ A web application for tracking skill development and learning progress.
 
 ### 📚 Currently Learning
 
+- Kotlin for Android app development
 - SQL and Python for Data Analytics
 - Machine Learning fundamentals
 - Building practical projects
