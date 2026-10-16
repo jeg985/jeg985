@@ -20,11 +20,8 @@
 I'm a Computer Science student in the Philippines who likes figuring out how things work and turning that curiosity into projects. I'm exploring **data analytics, machine learning, and software development**, and I enjoy the creative side of technology too.
 
 ```text
-jethro@feutech:~$ current_focus
-Python + SQL | Data & Machine Learning | Web Development
-
-jethro@feutech:~$ how_i_learn
-Try something → Build it → Understand it → Make it better
+focus: Software Development · Data · AI
+approach: Learn by building
 ```
 
 ---
